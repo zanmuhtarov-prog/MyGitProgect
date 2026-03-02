@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyGitProgect</string>
+    <string name="git_project">Git project!</string>
 </resources>
